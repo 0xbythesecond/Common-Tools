@@ -1,5 +1,5 @@
 # Common-Tools
-Common Tools that are used in networking
+Common tools that are used in networking
 #
 One can use a variety of network tools to perform tasks such as obtaining information about other systems on your network, accessing other systems, and communicating directly with other users. Network information can be obtained using utilities such as ping, ipconfig, tracret, host, nslookup etc.
 #
